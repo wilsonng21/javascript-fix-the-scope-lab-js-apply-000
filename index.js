@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var animal = 'cat'
+  var animal = 'cat'  //declaring a variable inside the function                     scope doesn
   return animal
 }
 
