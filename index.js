@@ -9,7 +9,7 @@ function yourAnimal() {
   var animal = 'cat'  
   return animal
 }
-// Declaring a variable inside the function does not affect the global scope.
+// Declaring a variable inside the function does not affect the    animal variable in the global scope.
 
 function add2(n) {
   return n + two
