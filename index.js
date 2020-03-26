@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  animal = 'cat'  
+  var animal = 'cat'  
   return animal
 }
 // Declaring a function inside the function does not affect the global scope.
